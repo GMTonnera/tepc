@@ -24,7 +24,7 @@ int main() {
         temp1 = pq1.top();
         temp2 = pq2.top();
         
-        // cout << temp1 << " " << temp2 << " " << s << endl; 
+        // cout << temp1 << " " <7< temp2 << " " << s << endl; 
 
 
         if(temp1-k <= temp2 and temp1+k >= temp2) {
