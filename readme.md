@@ -8,6 +8,8 @@
 |    5    |         6          |             0             | X | X | X | X | X | X | - |
 |    6    |         6          |             0             | X | X | X | X | X | X | - |
 
---
 
-| Total | 43 questões | 16 resolvidas | 37%
+---
+
+| Total | 43 questões | 16 resolvidas | 37% |
+|-------|-------------|---------------|-----|
