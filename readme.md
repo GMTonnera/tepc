@@ -1,4 +1,4 @@
-| Contest | Número de questões | Número de questões feitas | A | B | C | D | E | F | G |
+| Contest | Número de questões | Número de questões resolvidas | A | B | C | D | E | F | G |
 |---------|--------------------|---------------------------|---|---|---|---|---|---|---|
 | Inicial |         6          |             5             | O | O | O | O | O | X | - |
 |    1    |         6          |             4             | O | O | O | O | X | X | - |
