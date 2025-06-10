@@ -14,38 +14,46 @@ int main() {
         cin >> temp;
         q.push(temp);
     }
-
-    while(true) {
-        t++;
-        if (e) {
-            temp = q.front();
-            q.pop();
-        } 
-
+    while(!q.empty()) {
+        temp = q.front();
+        q.pop();
+        
         if(t % 3 == 0) {
-            temp -= 3;
-        } else {
-            temp -= 1;
+            t += temp / 5 * 3;
+            if(temp % 5 == 1) {
+                t++; 
+            } else if(temp % 5 == 2) {
+                t += 2;
+            } else if(temp % 5 == 3) {
+                t += 3;
+            } else if(temp % 5 == 4) {
+                t += 3;
+            }
+        } else if(t % 3 == 1) {
+            t += temp / 5 * 3;
+            if(temp % 5 == 1) {
+                t++; 
+            } else if(temp % 5 == 2) {
+                t += 2;
+            } else if(temp % 5 == 3) {
+                t += 2;
+            } else if(temp % 5 == 4) {
+                t += 2;
+            }
+        } else if(t % 3 == 2) {
+            t += temp / 5 * 3;
+            if(temp % 5 == 1) {
+                t++; 
+            } else if(temp % 5 == 2) {
+                t++;
+            } else if(temp % 5 == 3) {
+                t++;
+            } else if(temp % 5 == 4) {
+                t += 2;
+            }
         }
-
-        if(temp <= 0) {
-            e = false;
-        }
-
     }
 
-    cout << 
-
-
+    cout << t << "\n";
     return 0;
 }
-
-// 10 0
-// 9 1
-// 8 2
-// 5 3
-// 4 4
-// 3 5
-// 0 6
-
-// 9
