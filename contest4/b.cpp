@@ -3,21 +3,22 @@
 using namespace std;
 
 int main() {
-    int n, k, temp;
+    long long n, k, temp;
     long long s;
-    set<int> se;
+    set<long long> se;
 
     cin >> n >> k;
 
     s = k*(k+1)/2;
-
     for(int i = 0; i < n; i ++) {
         cin >> temp;
-        se.push_back(temp);
+        se.insert(temp);
     }
 
     for(auto i : se) {
-        s -= i;
+        if (i <= k) {
+            s -= i;
+        }
     }
 
     cout << s << endl;
