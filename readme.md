@@ -5,10 +5,10 @@
 | 2       | 7                  | 4                             | O   | O   | O   | O   | X   | X   | X   |
 | 3       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
 | 4       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
-| 5       | 6                  | 1                             | O   | X   | X   | X   | X   | X   | -   |
+| 5       | 6                  | 2                             | O   | O   | X   | X   | X   | X   | -   |
 | 6       | 6                  | 0                             | X   | X   | X   | X   | X   | X   | -   |
 
 ---
 
-| Total | 43 questões | 20 resolvidas | 46% |
+| Total | 43 questões | 21 resolvidas | 48% |
 | ----- | ----------- | ------------- | --- |
