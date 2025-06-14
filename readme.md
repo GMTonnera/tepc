@@ -1,6 +1,6 @@
 | Contest | Número de questões | Número de questões resolvidas | A   | B   | C   | D   | E   | F   | G   |
 | ------- | ------------------ | ----------------------------- | --- | --- | --- | --- | --- | --- | --- |
-| Inicial | 6                  | 5                             | O   | O   | O   | O   | O   | X   | -   |
+| Inicial | 6                  | 5                             | ✅  | O   | O   | O   | O   | X   | -   |
 | 1       | 6                  | 4                             | O   | O   | O   | O   | X   | X   | -   |
 | 2       | 7                  | 4                             | O   | O   | O   | O   | X   | X   | X   |
 | 3       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
