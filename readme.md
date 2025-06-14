@@ -11,7 +11,7 @@
 
 ✔️ Questão resolvida
 ❌ Questão não resolvida
-🔸 Contest sem a questão
+🔸Contest sem a questão
 
 ---
 
