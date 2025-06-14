@@ -7,9 +7,9 @@
 | 4       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
 | 5       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
 | 6       | 6                  | 3                             | O   | O   | O   | X   | X   | X   | -   |
-| 7       | 6                  | 0                             | X   | X   | X   | X   | X   | X   | -   |
+| 7       | 6                  | 1                             | O   | X   | X   | X   | X   | X   | -   |
 
 ---
 
-| Total | 49 questões | 25 resolvidas | 51% |
+| Total | 49 questões | 26 resolvidas | 53% |
 | ----- | ----------- | ------------- | --- |
